@@ -9,8 +9,13 @@ I'm a **Software Engineering Student** at **[ESPRIT](https://esprit.tn/)**, spec
 ---
 ### 🔭 Projects & Work
 - 🛠️ Building innovative solutions using **Laravel**, **Angular**, **React**,**Djingo** and **Spring Boot**.
-- 🌐 Leveraging **jenkins**, **sonar**,**Docker** and **CI/CD pipelines** for efficient development and deployment workflows.
+- 🌐 Leveraging **jenkins**, **sonar**,**Docker** and **CI/CD pipelines** for efficient development and deployment workflows:
 - 📊 Interested in data visualization and analytics tools to power decision-making.
+## 🔗 Repository Link
+Check out the project here:  
+[👉 Achat_DEVOPS Repository-Backend](https://github.com/amenibensaada/Achat_DEVOPS/tree/Produit)<br>
+[👉 Achat_DEVOPS Repository-Frontend](https://github.com/Hana-Romdhani/CRUDFrontDevops)
+---
 ### 📈 GitHub Stats
 ![Hana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hana-Romdhani&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-Romdhani&layout=compact&theme=radical)
