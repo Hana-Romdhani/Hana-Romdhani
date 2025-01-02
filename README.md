@@ -5,7 +5,7 @@ I'm a **Software Engineering Student** at **[ESPRIT](https://esprit.tn/)**, spec
 - 🌱 Currently mastering the latest tools and technologies in **DevOps** and **Web Development**.
 - 🔧 Skilled in **Frontend**, **Backend**, and **Cloud Deployment**.
 - 📚 Constantly learning and exploring new frameworks, languages, and methodologies.
-- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/romdhani-hana) | [Email](hanaromdhani98@gmail.com)
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/romdhani-hana) | [Email](hanaromdhani98@gmail.com) | 
 ---
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -35,8 +35,10 @@ I'm a **Software Engineering Student** at **[ESPRIT](https://esprit.tn/)**, spec
 ---
 ### 🔭 Projects & Work
 - 🛠️ Building innovative solutions using **Laravel**, **Angular**, **React**,**Djingo** and **Spring Boot**.
-- 🌐 Leveraging **jenkins**, **sonar**,**Docker** and **CI/CD pipelines** for efficient development and deployment workflows:[👉 Achat_DEVOPS Repository-Backend](https://github.com/amenibensaada/Achat_DEVOPS/tree/Produit)<br>
-[👉 Achat_DEVOPS Repository-Frontend](https://github.com/Hana-Romdhani/CRUDFrontDevops)
+- 🌐 Leveraging **jenkins**, **sonar**,**Docker** and **CI/CD pipelines** for efficient development and deployment workflows:
+[👉 Achat_DEVOPS Repository-Backend](https://github.com/amenibensaada/Achat_DEVOPS/tree/Produit)<br>
+[👉 Achat_DEVOPS Repository-Frontend](https://github.com/Hana-Romdhani/CRUDFrontDevops)<br>
+[Docker Repository](https://hub.docker.com/u/romdhanihana)
 - 📊 Interested in data visualization and analytics tools to power decision-making.
 ---
 ### 📈 GitHub Stats
