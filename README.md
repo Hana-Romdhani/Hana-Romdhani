@@ -48,5 +48,5 @@ I'm a **Software Engineering Student** at **[ESPRIT](https://esprit.tn/)**, spec
 ---
 
 ⭐️ **“Let's build something amazing together!”**
-![](https://komarev.com/ghpvc/?username=Hana-Romdhani&color=pink)
+![](https://komarev.com/ghpvc/?username=Hana-Romdhani&color=blueviolet)
 
