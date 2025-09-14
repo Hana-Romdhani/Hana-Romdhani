@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Hana Romdhani
-![](https://komarev.com/ghpvc/?username=Hana-Romdhani&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Hana-Romdhani&color=blueviolet).
 I'm a **Software Engineering Student** at **[ESPRIT](https://esprit.tn/)**, specializing in **Full-Stack Web Development** and **DevOps Practices**. 🚀
 - 💻 I’m passionate about building robust and scalable web applications.
 - 🌱 Currently mastering the latest tools and technologies in **DevOps** and **Web Development**.
